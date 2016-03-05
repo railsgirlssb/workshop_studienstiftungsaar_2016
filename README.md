@@ -1,10 +1,6 @@
 # Willkommen
 
-* Präsentation
-  * Vorsellung
-  * Was machen wir hier?
-  * Programmierung: was ist das...
-  * Fragerunde?
+* [Willkommen und Einführung](introduction/index.html)
 
 # Basics
 
@@ -19,6 +15,7 @@ Eventuell anhand von einem Miniprojekt nach und nach einzelbe Elemente einführe
 # Projekte
 
 * [Wandkalender/Notification Center/...](projects/wand_kalender.md)
+* [Cloud Vision API Beta](https://cloud.google.com/vision/)
 
 # Vorstellung
 
