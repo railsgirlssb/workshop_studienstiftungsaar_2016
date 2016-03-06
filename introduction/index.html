@@ -76,6 +76,8 @@ Für andere ist Programmieren eine wichtige Kompetenz in der digitalen Welt, die
 1. Programmieren wichtige Kompetenz
 2. Praktische Einführung
 3. Motivation weiter zu machen
+
+![:scale 80%](images/zuckerberg.png)
 ]
 
 ---
@@ -88,6 +90,10 @@ Für andere ist Programmieren eine wichtige Kompetenz in der digitalen Welt, die
     <script src="js/remark.min.js">
     </script>
     <script>
+      remark.macros.scale = function (percentage) {
+        var url = this;
+        return '<img src="' + url + '" style="width: ' + percentage + '" />';
+      };
       var slideshow = remark.create();
     </script>
   </body>
