@@ -12,10 +12,9 @@ Eventuell anhand von einem Miniprojekt nach und nach einzelbe Elemente einführe
 
 # Mittagspause
 
-# Projekte
+# Projekt
 
-* [Wandkalender/Notification Center/...](projects/wand_kalender.md)
-* [Cloud Vision API Beta](https://cloud.google.com/vision/)
+* [Sensoren Auslesen und Zustände setzen](https://github.com/railsgirlssb/workshop_studienstiftungsaar_2016_guides)
 
 # Vorstellung
 
