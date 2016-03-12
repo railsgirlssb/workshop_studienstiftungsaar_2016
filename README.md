@@ -6,6 +6,9 @@
 
 Grundlagen der Programmierung (mit Ruby).
 
+[Guides GitHub](https://github.com/railsgirlssb/workshop_studienstiftungsaar_2016_guides)
+[Guides](http://sts.railsgirlssb.de/)
+
 Eventuell anhand von einem Miniprojekt nach und nach einzelbe Elemente einführen:
 * Würfelspiel?
 * TODO andere...
